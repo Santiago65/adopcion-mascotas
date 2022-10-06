@@ -1,0 +1,18 @@
+body{
+    background: #333;
+    color:  #bbb;
+    text-align: center;
+    padding-top: 50px;
+}
+.carousel{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+/* Voy hacer la img */
+.card img{
+    height: 40%;
+}
+.card p{
+    text-align: justify;
+}
